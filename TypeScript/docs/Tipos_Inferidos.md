@@ -26,7 +26,7 @@ Tambien podemos typar una funcion tipo callback.
 
 Para tipar este tipo de funciones tenemos dos formas, eligue la que mas te guste !
 
-![Inferidos 10.png](../images/Inferidos%210.png)
+![Inferidos 10.png](../images/Inferidos%2010.png)
 
 
 ## Inferencia de funciones con contexto
@@ -34,8 +34,8 @@ Para tipar este tipo de funciones tenemos dos formas, eligue la que mas te guste
 Como comentamos anteriormente las funciones no tienen inferencia de manera predeterminada, solo si tiene un contexto definido con anterioridad.
 
 
-![Inferidos 11.png](../images/Inferidos%211.png)
-![Inferidos 12.png](../images/Inferidos%212.png)
+![Inferidos 11.png](../images/Inferidos%2011.png)
+![Inferidos 12.png](../images/Inferidos%2012.png)
 
 En este caso estamos definiendo un array de String, lo cual al pasarle esto a una funcion Anonima como lo es ForEach, Map, Etc. TS entiende y infiere el tipo de estos items.
 
