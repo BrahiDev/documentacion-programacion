@@ -18,4 +18,4 @@ Al principio esto puede sonar algo confuso, pero es muy importante entender este
 
 **El navegador no entiende el código TS, por ende debe convertirse a JS para que el navegador entienda e interprete esto.**
 
-![TS.png](./images/TS.png)
+![TS.png](../images/TS.png)
